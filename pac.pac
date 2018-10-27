@@ -1,4 +1,4 @@
-var proxy = "192.168.137.1:8087;";
+var proxy = "SOCKS5 127.0.0.1:8087;";
 
 var domains = {
   "*.google": 1,
